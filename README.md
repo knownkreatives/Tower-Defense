@@ -1,10 +1,3 @@
-<!DOCTYPE html>
-<head>
-<style>
-#Main{
-	color : #e1b12c
-}
-</style>
 </head>
 <body>
 <h1 id="Main"> Tower-Defense v1.0 </h1>
